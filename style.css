@@ -1,0 +1,37 @@
+/* Grid intro */
+/* .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    background-color: blue;
+    padding: 10px;
+    gap: 10px;
+}
+.grid-container>div {
+    background-color: bisque;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+} */
+
+/* grid lines  */
+
+/* Grid intro */
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    background-color: blue;
+    padding: 10px;
+    gap: 10px;
+}
+.grid-container>div {
+    background-color: bisque;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item1 {
+    grid-column: 1;
+    grid-column-end:4;
+}
+
