@@ -175,7 +175,7 @@
 
 /* naming area property */
 
-.item1 {
+/* .item1 {
     grid-area: myArea;
 }
 .grid-container {
@@ -191,4 +191,25 @@
     text-align: center;
     padding: 20px 0px;
     font-size: 30px;
+} */
+
+/* order items */
+/* .item1 {
+    1/2/3/4
 }
+.item6 {
+    /  /3/4
+}
+.item5 {
+    1/2/3/4
+} */
+
+/* .item4 {
+    1/2/3/4
+}
+.item3 {
+    /  /3/4
+}
+.item2 {
+    1/2/3/4
+} */
